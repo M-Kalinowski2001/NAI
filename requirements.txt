@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-fuzzy
+matplotlib
+scikit-learn
+ipykernel
+openpyxl
+scikit-surprise
