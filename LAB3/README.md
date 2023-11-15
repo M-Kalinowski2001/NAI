@@ -2,6 +2,7 @@ This is a recommendation engine for movies, which allows to display 5 recommende
 Authors: Aleksander Misztal s22019, Michał Kalinowski s22464
 
 To run the program, you should start the Integrated Development Environment (IDE), make sure to have all the listed imports and run the main file: 
+    
     pandas
     numpy
     scikit-fuzzy
