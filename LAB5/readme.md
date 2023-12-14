@@ -2,6 +2,7 @@ Authors: Aleksander Misztal s22019, Michał Kalinowski s22464
 
 
 Task 1 + Confusion Matrix
+
 This script demonstrates the use of Support Vector Machine (SVM) and Neural Network models
 for classification on a wheat dataset.
 
@@ -16,6 +17,7 @@ Note: The dataset file 'wheat.csv' should be available in the 'data' directory.
 
 
 Task 2
+
 This script demonstrates the implementation of a Convolutional Neural Network (CNN)
 for image classification on an Animals dataset.
 
@@ -29,6 +31,7 @@ Note: The dataset should be organized in subdirectories under 'data/Animals' wit
 
 
 Task 3 + comparison of basic architecture to 2 hidden layers
+
 This script demonstrates the implementation of basic and complex neural network models
 for image classification on the Fashion MNIST dataset.
 
@@ -43,8 +46,8 @@ is available through Keras.
 
 
 Task 4
-Sentiment Analysis Model
 
+Sentiment Analysis Model
 This script demonstrates sentiment analysis using a Long Short-Term Memory (LSTM) neural network.
 The model is trained on a dataset of reviews and predicts whether a given review is positive or negative.
 
