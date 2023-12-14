@@ -45,9 +45,8 @@ is available through Keras.
 ![Alt text](task3.png)
 
 
-Task 4
+Task 4 - Sentiment Analysis Model
 
-Sentiment Analysis Model
 This script demonstrates sentiment analysis using a Long Short-Term Memory (LSTM) neural network.
 The model is trained on a dataset of reviews and predicts whether a given review is positive or negative.
 
